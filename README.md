@@ -7,3 +7,6 @@ Atualmente sou estudante do RocketSeat, venho adquirindo conhecimento dos seguin
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+
