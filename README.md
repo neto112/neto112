@@ -8,6 +8,6 @@ I currently work at <a href="https://www.knnidiomas.com.br/">KNN IDIOMAS BRASIL 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Vuejs](https://img.shields.io/badge/-Vuejs-brightgreen?style=flat-square&logo=vue)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 
