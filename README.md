@@ -1,4 +1,4 @@
-Hello, I'm Crisiano and I'm from Brazil.
+Hello, I'm Crisiano and I'm from Balneáiro Camboriú, Santa Catarina, Brazil.
 
 I currently work at <a href="https://www.knnidiomas.com.br/">KNN IDIOMAS BRASIL LTDA.</a> as developer Front-End
 
@@ -11,4 +11,3 @@ I currently work at <a href="https://www.knnidiomas.com.br/">KNN IDIOMAS BRASIL 
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white)
-
