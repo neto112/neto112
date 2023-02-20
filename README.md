@@ -1,6 +1,6 @@
 # Hello! I'm Crisiano 👋
 
-### I currently work at <a href="https://www.knnidiomas.com.br/">KNN IDIOMAS BRASIL LTDA.</a> as developer Front-End with Vue.js, Vuex, Vuetify and Typescript technologies.
+I currently work at <a href="https://www.knnidiomas.com.br/">KNN IDIOMAS BRASIL LTDA.</a> as developer Front-End with Vue.js, Vuex, Vuetify and Typescript technologies.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristianorneto/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cristianorneto_/)
