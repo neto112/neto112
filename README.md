@@ -1,6 +1,6 @@
 # Hello! I'm Crisiano 👋
 
-I currently work at Itaú as a Front-End Developer, focusing on learning and working with React and Angular technologies.
+I currently work at Itaú Unibanco as a Front-End Developer, focusing on learning and working with React and Angular technologies.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristianorneto/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cristianorneto_/)
